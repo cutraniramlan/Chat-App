@@ -1,5 +1,4 @@
-# React Native Mobile
-# Chat App
+# React Native Mobile Chat App
 
 
 ## Objective
