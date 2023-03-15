@@ -25,7 +25,7 @@ const Start = ({ navigation }) => {
   return (
     <View style={styles.container}>
       <ImageBackground
-        source={require("../assets/BackgroundImage1.png")}
+        source={require("../assets/BackgroundImage2.png")}
         style={styles.image}
       >
         <Text style={styles.appTitle}></Text>
