@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import {
   StyleSheet,
   View,
@@ -40,9 +40,8 @@ const Start = ({ route, navigation }) => {
 
   return (
     <View style={{ flex: 1 }}>
-      <Text style={styles.appTitle}>ChatApp</Text>
       <ImageBackground
-        source={require("../assets/BackgroundImage1.png")}
+        source={require("../assets/BackgroundImage2.png")}
         style={styles.image}
       >
         <Text style={styles.title}></Text>
