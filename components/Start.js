@@ -41,7 +41,7 @@ const Start = ({ route, navigation }) => {
   return (
     <View style={{ flex: 1 }}>
       <ImageBackground
-        source={require("../assets/BackgroundImage2.png")}
+        source={require("../assets/BackgroundImage3.png")}
         style={styles.image}
       >
         <Text style={styles.title}></Text>
